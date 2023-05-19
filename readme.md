@@ -25,3 +25,4 @@ mem.traverse_pointers_chain(address, 0x16, 0x4);
 remote::read_memory(handle, address, &buffer, size);
 remote::write_memory(handle, address, &buffer
 ```
+ok
